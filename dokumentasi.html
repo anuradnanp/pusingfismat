@@ -1,0 +1,97 @@
+<!-- Copyright (C) 2022 Alma Nuradnan Pramudita (email: gocodealpha@gmail.com)
+
+This file is part of MathSD.
+
+MathSD is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+MathSD is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with MathSD. If not, see <https://www.gnu.org/licenses/>. -->
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/animate.min.css">
+    <link rel="stylesheet" href="css/w3.css">
+    <link rel="stylesheet" href="css/kuis-style.css">
+  </head>
+
+  <body onload="checkStart()" ononline="showBorder()" onoffline="hideBorder()">
+		<div id="banner-ad-border">&uarr; IKLAN | AD &uarr;</div>
+
+    <!-- Navbar -->
+    <div id="wideNav"></div>
+
+    <!-- Navbar on small screens (remove the onclick attribute if you want the navbar to always show on top of the content when clicking on the links) -->
+    <div id="navDemo" class="w3-bar-block w3-black w3-hide w3-hide-small-medium w3-hide-medium w3-hide-medium-large w3-hide-large"></div>
+
+    <!-- Page content -->
+    <div class="w3-content" style="max-width: 2000px">
+
+      <!-- The Section -->
+      <div class="w3-container w3-content w3-padding-32" style="max-width: 900px; min-height: 650px">
+        <h1>Dokumentasi</h1>
+
+        <div class="w3-half">
+					<hr>
+          <p>Keseluruhan app MathSD berlisensi GNU GPL versi 3, kecuali komponen-komponen yang dilekati lisensi tersendiri sebelum digunakan dalam app ini.</p>
+          <p>Berikut tautan menuju lisensi tersebut: <a href="https://www.gnu.org/licenses/gpl-3.0.en.html" target="_blank" style="word-break: break-all;">https://www.gnu.org/licenses/gpl-3.0.en.html</a>.</p>
+					<p>pengembang app:
+						<br>Alma Nuradnan Pramudita
+						<br>gocodealpha@gmail.com
+					</p>
+        </div>
+
+        <div class="w3-half">
+					<hr>
+          <p>Library Animate.css pada app MathSD berlisensi Hippocratic License.</p>
+          <p>Berikut tautan menuju lisensi tersebut: <a href="https://github.com/animate-css/animate.css/blob/main/LICENSE" target="_blank" style="word-break: break-all;">https://github.com/animate-css/animate.css/blob/main/LICENSE</a>.</p>
+          <p>Berikut tautan menuju Animate.css: <a href="https://animate.style/" target="_blank" style="word-break: break-all;">https://animate.style/</a>.</p>
+        </div>
+
+        <div class="w3-half">
+					<hr>
+          <p>Font Lato pada app MathSD berlisensi SIL OFL versi 1.1.</p>
+          <p>Berikut tautan menuju lisensi tersebut: <a href="https://scripts.sil.org/cms/scripts/page.php?item_id=OFL-FAQ_web" target="_blank" style="word-break: break-all;">https://scripts.sil.org/cms/scripts/page.php?item_id=OFL-FAQ_web</a>.</p>
+        </div>
+
+        <div class="w3-half">
+					<hr>
+          <p>Font Luckiest Guy dan library MathJAX pada app MathSD berlisensi Apache License versi 2.</p>
+          <p>Berikut tautan menuju lisensi tersebut: <a href="https://www.apache.org/licenses/LICENSE-2.0" target="_blank" style="word-break: break-all;">https://www.apache.org/licenses/LICENSE-2.0</a>.</p>
+          <p>Berikut tautan menuju MathJAX: <a href="https://www.mathjax.org/" target="_blank" style="word-break: break-all;">https://www.mathjax.org/</a>.</p>
+        </div>
+
+        <div class="w3-half">
+					<hr>
+          <p>Media kuis disalin dari script Web Dev Simplified di CodePen, dengan modifikasi dan tambahan sesuai keperluan.</p>
+          <p>Berikut tautan menuju script tersebut: <a href="https://codepen.io/WebDevSimplified/pen/xNvaaz" target="_blank" style="word-break: break-all;">https://codepen.io/WebDevSimplified/pen/xNvaaz</a>.</p>
+        </div>
+
+        <div class="w3-half">
+					<hr>
+          <p>Pengaturan lebar kolom array MathJAX disalin dari script Davide Cervone di Google Groups.</p>
+          <p>Berikut tautan menuju script tersebut: <a href="https://groups.google.com/g/mathjax-users/c/daApZrHGZik/m/_j8zJtJMEwAJ" target="_blank" style="word-break: break-all;">https://groups.google.com/g/mathjax-users/c/daApZrHGZik/m/_j8zJtJMEwAJ</a>.</p>
+        </div>
+
+      </div>
+    </div>
+
+		<script src="js/ad-border.js" defer></script>
+    <script src="js/nav.js" defer></script>
+
+    <script>
+			for (let i = 0; i < document.getElementsByClassName('w3-half').length; i++) {
+				document.getElementsByClassName('w3-half')[i].classList.add('animate__animated');
+				document.getElementsByClassName('w3-half')[i].classList.add('animate__backInLeft');
+				document.getElementsByClassName('w3-half')[i].style.setProperty('animation-duration', '0.5s');
+				document.getElementsByClassName('w3-half')[i].style.setProperty('animation-delay', [i / 5, 's'].join(''));
+			}
+    </script>
+
+		<script src="https://code.tidio.co/p0nrmzs83yai4ulwvu4p3xwkjxafta55.js" async></script>
+
+  </body>
+</html>

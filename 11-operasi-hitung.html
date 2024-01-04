@@ -1,0 +1,168 @@
+<!-- Copyright (C) 2022 Alma Nuradnan Pramudita (email: gocodealpha@gmail.com)
+
+This file is part of MathSD.
+
+MathSD is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+MathSD is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with MathSD. If not, see <https://www.gnu.org/licenses/>. -->
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/animate.min.css">
+    <link rel="stylesheet" href="css/w3.css">
+    <link rel="stylesheet" href="css/kuis-style.css">
+
+    <script>
+    MathJax = {
+      startup: {
+        ready() {
+          const {Configuration} = MathJax._.input.tex.Configuration;
+
+          const {EnvironmentMap} = MathJax._.input.tex.SymbolMap;
+          const ParseUtil = MathJax._.input.tex.ParseUtil.default;
+
+          const ParseMethods = MathJax._.input.tex.ParseMethods.default;
+          const BaseMethods = MathJax._.input.tex.base.BaseMethods.default;
+
+          new EnvironmentMap('my-tightarray', ParseMethods.environment, {
+            tightarray:   ['TightArray'],
+          }, {
+            TightArray(parser, begin) {
+              const spacing = parser.GetBrackets('\\begin{' + begin.getName() + '}');
+              const align = parser.GetBrackets('\\begin{' + begin.getName() + '}');
+              const item = BaseMethods.Array(parser, begin, null, null, null, spacing);
+              return ParseUtil.setArrayAlign(item, align);
+
+            }
+          });
+
+          Configuration.create('my-tightarray', {
+            handler: {
+              environment: ['my-tightarray'],
+            }
+          });
+
+          MathJax.startup.defaultReady();
+        }
+      },
+      tex: {packages: {'[+]': ['my-tightarray']}}
+    }
+    </script>
+
+    <script id="MathJax-script" src="es5/tex-chtml-full.js" async></script>
+  </head>
+
+  <body onload="checkStart()" ononline="showBorder()" onoffline="hideBorder()">
+		<div id="banner-ad-border">&uarr; IKLAN | AD &uarr;</div>
+
+    <!-- Navbar -->
+    <div id="wideNav"></div>
+
+    <!-- Navbar on small screens (remove the onclick attribute if you want the navbar to always show on top of the content when clicking on the links) -->
+    <div id="navDemo" class="w3-bar-block w3-black w3-hide w3-hide-small-medium w3-hide-medium w3-hide-medium-large w3-hide-large"></div>
+
+    <!-- Page content -->
+    <div class="w3-content" style="max-width: 2000px">
+
+      <!-- The Section -->
+      <div class="w3-container w3-content w3-padding-32" style="max-width: 900px; min-height: 650px; text-align: center">
+        <h1>Operasi Hitung I</h1>
+
+				<!-- soal -->
+				<div class="container-soal">
+					<div id="question-container" class="hide">
+						<div id="question">Pertanyaan</div>
+						<div id="answer-buttons" class="btn-grid-soal">
+							<button class="btn-soal">Jawaban 1</button>
+							<button class="btn-soal">Jawaban 2</button>
+							<button class="btn-soal">Jawaban 3</button>
+							<button class="btn-soal">Jawaban 4</button>
+						</div>
+					</div>
+					<div class="controls">
+						<button id="start-btn" class="start-btn btn-soal" style="text-align: center !important">Mulai latihan</button>
+						<button id="next-btn" class="next-btn btn-soal hide" style="text-align: center !important">Lanjut</button>
+					</div>
+					<div id="ambience" style="text-align: center"></div>
+				</div>
+
+				<!-- pembahasan -->
+				<div id="b1" class="pembahasan hide"></div>
+				<div id="b2" class="pembahasan hide"></div>
+				<div id="b3" class="pembahasan hide"></div>
+				<div id="b4" class="pembahasan hide"></div>
+				<div id="b5" class="pembahasan hide"></div>
+				<div id="b6" class="pembahasan hide"></div>
+				<div id="b7" class="pembahasan hide"></div>
+				<div id="b8" class="pembahasan hide"></div>
+				<div id="b9" class="pembahasan hide"></div>
+				<div id="b10" class="pembahasan hide"></div>
+				<div id="b11" class="pembahasan hide"></div>
+				<div id="b12" class="pembahasan hide"></div>
+				<div id="b13" class="pembahasan hide"></div>
+				<div id="b14" class="pembahasan hide"></div>
+				<div id="b15" class="pembahasan hide"></div>
+				<div id="b16" class="pembahasan hide"></div>
+				<div id="b17" class="pembahasan hide"></div>
+				<div id="b18" class="pembahasan hide"></div>
+				<div id="b19" class="pembahasan hide"></div>
+				<div id="b20" class="pembahasan hide"></div>
+				<div id="b21" class="pembahasan hide"></div>
+				<div id="b22" class="pembahasan hide"></div>
+				<div id="b23" class="pembahasan hide"></div>
+				<div id="b24" class="pembahasan hide"></div>
+				<div id="b25" class="pembahasan hide"></div>
+				<div id="b26" class="pembahasan hide"></div>
+				<div id="b27" class="pembahasan hide"></div>
+				<div id="b28" class="pembahasan hide"></div>
+				<div id="b29" class="pembahasan hide"></div>
+				<div id="b30" class="pembahasan hide"></div>
+
+      </div>
+    </div>
+
+    <script src="soal/11-operasi-hitung.js" defer></script>
+    <script src="bahas/11-operasi-hitung/b1.js" defer></script>
+    <script src="bahas/11-operasi-hitung/b2.js" defer></script>
+    <script src="bahas/11-operasi-hitung/b3.js" defer></script>
+    <script src="bahas/11-operasi-hitung/b4.js" defer></script>
+    <script src="bahas/11-operasi-hitung/b5.js" defer></script>
+    <script src="bahas/11-operasi-hitung/b6.js" defer></script>
+    <script src="bahas/11-operasi-hitung/b7.js" defer></script>
+    <script src="bahas/11-operasi-hitung/b8.js" defer></script>
+    <script src="bahas/11-operasi-hitung/b9.js" defer></script>
+    <script src="bahas/11-operasi-hitung/b10.js" defer></script>
+    <script src="bahas/11-operasi-hitung/b11.js" defer></script>
+    <script src="bahas/11-operasi-hitung/b12.js" defer></script>
+    <script src="bahas/11-operasi-hitung/b13.js" defer></script>
+    <script src="bahas/11-operasi-hitung/b14.js" defer></script>
+    <script src="bahas/11-operasi-hitung/b15.js" defer></script>
+    <script src="bahas/11-operasi-hitung/b16.js" defer></script>
+    <script src="bahas/11-operasi-hitung/b17.js" defer></script>
+    <script src="bahas/11-operasi-hitung/b18.js" defer></script>
+    <script src="bahas/11-operasi-hitung/b19.js" defer></script>
+    <script src="bahas/11-operasi-hitung/b20.js" defer></script>
+    <script src="bahas/11-operasi-hitung/b21.js" defer></script>
+    <script src="bahas/11-operasi-hitung/b22.js" defer></script>
+    <script src="bahas/11-operasi-hitung/b23.js" defer></script>
+    <script src="bahas/11-operasi-hitung/b24.js" defer></script>
+    <script src="bahas/11-operasi-hitung/b25.js" defer></script>
+    <script src="bahas/11-operasi-hitung/b26.js" defer></script>
+    <script src="bahas/11-operasi-hitung/b27.js" defer></script>
+    <script src="bahas/11-operasi-hitung/b28.js" defer></script>
+    <script src="bahas/11-operasi-hitung/b29.js" defer></script>
+    <script src="bahas/11-operasi-hitung/b30.js" defer></script>
+
+		<script src="js/kendali-alur.js" defer></script>
+		<script src="js/ad-border.js" defer></script>
+    <script src="js/nav.js" defer></script>
+
+		<script src="https://code.tidio.co/p0nrmzs83yai4ulwvu4p3xwkjxafta55.js" async></script>
+
+  </body>
+</html>

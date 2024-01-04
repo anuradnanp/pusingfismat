@@ -1,0 +1,168 @@
+<!-- Copyright (C) 2022 Alma Nuradnan Pramudita (email: gocodealpha@gmail.com)
+
+This file is part of MathSD.
+
+MathSD is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+MathSD is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with MathSD. If not, see <https://www.gnu.org/licenses/>. -->
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/animate.min.css">
+    <link rel="stylesheet" href="css/w3.css">
+    <link rel="stylesheet" href="css/kuis-style.css">
+  </head>
+
+  <body onload="checkStart()" ononline="showBorder()" onoffline="hideBorder()">
+		<div id="banner-ad-border">&uarr; IKLAN | AD &uarr;</div>
+
+    <!-- Navbar -->
+    <div id="wideNav"></div>
+
+    <!-- Navbar on small screens (remove the onclick attribute if you want the navbar to always show on top of the content when clicking on the links) -->
+    <div id="navDemo" class="w3-bar-block w3-black w3-hide w3-hide-small-medium w3-hide-medium w3-hide-medium-large w3-hide-large"></div>
+
+    <!-- Page content -->
+    <div class="w3-content" style="max-width: 2000px">
+
+      <!-- The Section -->
+      <div class="w3-container w3-content w3-padding-32" style="max-width: 900px; min-height: 650px">
+        <h1>Pengantar MathSD</h1>
+
+        <div class="w3-half">
+          <hr>
+          <p>
+						<table style="border: none; line-height: 1.2; border-spacing: 5px">
+							<tr>
+								<td style="text-align: center; border: 2px solid black; padding: 10px; border-radius: 20px">
+									<span class="norm-text">rutin</span>
+									<br><span class="big-text">berlatih</span>
+								</td>
+								<td style="text-align: center; border: none; padding: 0; border-radius: 20px; vertical-align: middle">
+									<span style="font-size: 200%">&#8680;</span>
+								</td>
+								<td style="text-align: center; border: 2px solid black; padding: 10px; border-radius: 20px">
+									<span class="norm-text">meningkatkan</span>
+									<br><span class="big-text">keterampilan</span>
+								</td>
+							</tr>
+							<tr>
+								<td></td><td></td>
+								<td style="text-align: center; border: none; padding: 0; border-radius: 20px; vertical-align: middle">
+									<span style="font-size: 200%">&#8681;</span>
+								</td>
+							</tr>
+							<tr>
+								<td style="text-align: center; border: 2px solid black; padding: 10px; border-radius: 20px" colspan="3">
+									<span class="norm-text">persoalan Matematika jadi</span>
+									<br><span class="big-text">tantangan menyenangkan</span>
+								</td>
+							</tr>
+						</table>
+          </p>
+
+					<p>Selamat berlatih agar Matematika jadi menyenangkan! &#x1F609;</p>
+					<p>pengembang app:
+						<br>Alma Nuradnan Pramudita
+						<br>gocodealpha@gmail.com
+					</p>
+        </div>
+
+        <div class="w3-half">
+          <hr>
+          <p>
+						<table style="border: none; line-height: 1.2; border-spacing: 15px">
+							<tr>
+								<td style="text-align: right; background-color: #faa; padding: 15px; border-radius: 20px">
+									<span class="big-text">soal</span>
+									<br><span class="norm-text">melimpah</span>
+									<br><span class="norm-text">acak</span>
+									<br><span class="norm-text">skor otomatis</span>
+								</td>
+								<td style="text-align: left; background-color: #afa; padding: 15px; border-radius: 20px">
+									<span class="big-text">pembahasan</span>
+									<br><span class="norm-text">mendetil</span>
+									<br><span class="norm-text">lambang tepat</span>
+									<br><span class="norm-text">hitungan berwarna</span>
+								</td>
+							</tr>
+						</table>
+					</p>
+					<p style="text-align: center">
+						<img src=aset/02.svg style="width: 145px; max-width: 100%">
+						<img src=aset/00-pengantar/01.svg style="width: 145px; max-width: 100%">
+					</p>
+        </div>
+
+        <div class="w3-half">
+          <hr>
+          <p>
+						<table style="border: none; line-height: 1.2; border-spacing: 15px">
+							<tr>
+								<td style="text-align: right; background-color: #aaf; padding: 15px; border-radius: 20px">
+									<span class="big-text">belajar sendiri</span>
+									<br><span class="norm-text">lebih fokus</span>
+									<br><span class="norm-text">lebih santai</span>
+								</td>
+								<td style="text-align: left; background-color: #faa; padding: 15px; border-radius: 20px">
+									<span class="big-text">belajar bersama</span>
+									<br><span class="norm-text">bisa berkompetisi</span>
+									<br><span class="norm-text">bisa berdiskusi</span>
+								</td>
+							</tr>
+						</table>
+					</p>
+					<p style="text-align: center">
+						<img src=aset/01.svg style="width: 145px; max-width: 100%">
+						<img src=aset/03.svg style="width: 145px; max-width: 100%">
+					</p>
+        </div>
+
+        <div class="w3-half">
+          <hr>
+          <p>
+						<table style="border: none; line-height: 1.2; border-spacing: 15px">
+							<tr>
+								<td style="text-align: right; background-color: #afa; padding: 15px; border-radius: 20px">
+									<span class="big-text">sesi mandiri</span>
+									<br><span class="norm-text">latihan inisiatif</span>
+									<br><span class="norm-text">latihan disiplin</span>
+								</td>
+								<td style="text-align: left; background-color: #aaf; padding: 15px; border-radius: 20px">
+									<span class="big-text">sesi terpandu</span>
+									<br><span class="norm-text">berbagi arahan</span>
+									<br><span class="norm-text">berbagi evaluasi</span>
+								</td>
+							</tr>
+						</table>
+					</p>
+					<p style="text-align: center">
+						<img src=aset/04.svg style="width: 145px; max-width: 100%">
+						<img src=aset/16.svg style="width: 145px; max-width: 100%">
+					</p>
+        </div>
+
+      </div>
+    </div>
+
+		<script src="js/ad-border.js" defer></script>
+    <script src="js/nav.js" defer></script>
+
+    <script>
+			for (let i = 0; i < document.getElementsByClassName('w3-half').length; i++) {
+				document.getElementsByClassName('w3-half')[i].classList.add('animate__animated');
+				document.getElementsByClassName('w3-half')[i].classList.add('animate__backInLeft');
+				document.getElementsByClassName('w3-half')[i].style.setProperty('animation-duration', '0.5s');
+				document.getElementsByClassName('w3-half')[i].style.setProperty('animation-delay', [i / 10 * 4, 's'].join(''));
+			}
+    </script>
+
+		<script src="https://code.tidio.co/p0nrmzs83yai4ulwvu4p3xwkjxafta55.js" async></script>
+
+  </body>
+</html>
