@@ -1,0 +1,5 @@
+let b1 = '<p>Balik suku-sukunya dan hitunglah. &#x1F9D0;</p>'
+
++ '<p>$$\\begin{gather*}\\begin{tightarray}[0.2em]{ r c l }\\textcolor[rgb]{1,0,0}{\\blacksquare } +\\textcolor[rgb]{0,0.5,0}{\\blacksquare } & = & \\textcolor[rgb]{0,0.5,0}{\\blacksquare } +\\textcolor[rgb]{1,0,0}{\\blacksquare }\\\\\\textcolor[rgb]{1,0,0}{6}+\\textcolor[rgb]{0,0.5,0}{( -1)} & = & \\textcolor[rgb]{0,0.5,0}{( -1)} +\\textcolor[rgb]{1,0,0}{6}\\end{tightarray}\\\\\\\\\\begin{tightarray}[0.2em]{ c l } & 6\\textcolor[rgb]{1,0,0}{+(-} 1)\\\\= & 6-1\\\\= & 5\\end{tightarray}\\\\\\\\\\begin{tightarray}[0.2em]{ r|c }\\textcolor[rgb]{0,0.5,0}{5} & \\rightarrow -1+6=5\\\\\\textcolor[rgb]{0.67,0.67,0.67}{4} & \\\\\\textcolor[rgb]{0.67,0.67,0.67}{3} & \\\\\\textcolor[rgb]{0.67,0.67,0.67}{2} & \\\\\\textcolor[rgb]{0.67,0.67,0.67}{1} & \\\\\\textcolor[rgb]{0.67,0.67,0.67}{0} & \\\\\\textcolor[rgb]{0,0.5,0}{\\uparrow } & \\\\\\textcolor[rgb]{1,0,0}{-1} & \\end{tightarray}\\end{gather*}$$</p>'
+
++ '<p>Jadi 6 + (&minus;1) = (&minus;1) + 6 = 5. &#x1F642;</p>';

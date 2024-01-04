@@ -1,0 +1,5 @@
+let b22 = '<p>Hitung nilai totalnya dengan penjumlahan. &#x1F9D0;</p>'
+
++ '<p>$$\\begin{gather*}\\begin{tightarray}[0.2em]{ c r c c c c } & \\textcolor[rgb]{0,0.5,1}{1} & \\textcolor[rgb]{0,0.5,0}{0} & \\textcolor[rgb]{1,0,0}{0} & 00 & \\\\ & & \\textcolor[rgb]{0,0.5,0}{5} & \\textcolor[rgb]{1,0,0}{0} & 00 & \\\\ & & & \\textcolor[rgb]{1,0,0}{5} & 00 & \\\\ & & & \\textcolor[rgb]{1,0,0}{5} & 00 & \\\\ & & & \\textcolor[rgb]{1,0,0}{5} & 00 & +\\\\\\hline & & & \\textcolor[rgb]{1,0,0}{15} & 00 & \\end{tightarray}\\\\\\begin{tightarray}[0.2em]{ c r c c c c } & & \\textcolor[rgb]{1,0,0}{_{1}} & & & \\\\ & \\textcolor[rgb]{0,0.5,1}{1} & \\textcolor[rgb]{0,0.5,0}{0} & \\textcolor[rgb]{1,0,0}{0} & 00 & \\\\ & & \\textcolor[rgb]{0,0.5,0}{5} & \\textcolor[rgb]{1,0,0}{0} & 00 & \\\\ & & & \\textcolor[rgb]{1,0,0}{5} & 00 & \\\\ & & & \\textcolor[rgb]{1,0,0}{5} & 00 & \\\\ & & & \\textcolor[rgb]{1,0,0}{5} & 00 & +\\\\\\hline & \\textcolor[rgb]{0,0.5,1}{1} & \\textcolor[rgb]{0,0.5,0}{6} & \\textcolor[rgb]{1,0,0}{5} & 00 & \\end{tightarray}\\end{gather*}$$</p>'
+
++ '<p>Jadi total nilainya Rp16500. &#x1F642;</p>';

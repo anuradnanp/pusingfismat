@@ -1,0 +1,5 @@
+let b30 = '<p>Gunakan pengurangan bersusun secara bertahap. &#x1F9D0;</p>'
+
++ '<p>$$\\begin{gather*}\\begin{tightarray}[0.2em]{ c c c c c } & & \\textcolor[rgb]{0,0.5,0}{_{7}} & \\textcolor[rgb]{1,0,0}{_{11}} & \\\\ & \\textcolor[rgb]{0,0.5,1}{8} & \\textcolor[rgb]{0,0.5,0}{\\cancel{\\textcolor[rgb]{0,0.5,0}{8}}} & \\textcolor[rgb]{1,0,0}{\\cancel{1}} & \\\\ & \\textcolor[rgb]{0,0.5,1}{2} & \\textcolor[rgb]{0,0.5,0}{5} & \\textcolor[rgb]{1,0,0}{6} & -\\\\\\hline & \\textcolor[rgb]{0,0.5,1}{6} & \\textcolor[rgb]{0,0.5,0}{2} & \\textcolor[rgb]{1,0,0}{5} & \\end{tightarray}\\\\\\\\\\begin{tightarray}[0.2em]{ c c c c c } & \\textcolor[rgb]{0,0.5,1}{6} & \\textcolor[rgb]{0,0.5,0}{2} & \\textcolor[rgb]{1,0,0}{5} & \\\\ & \\textcolor[rgb]{0,0.5,1}{1} & \\textcolor[rgb]{0,0.5,0}{0} & \\textcolor[rgb]{1,0,0}{1} & -\\\\\\hline & \\textcolor[rgb]{0,0.5,1}{5} & \\textcolor[rgb]{0,0.5,0}{2} & \\textcolor[rgb]{1,0,0}{4} & \\end{tightarray}\\end{gather*}$$</p>'
+
++ '<p>Jadi hasil pengurangannya adalah 524. &#x1F642;</p>';
