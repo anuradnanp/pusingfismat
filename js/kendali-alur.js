@@ -32,15 +32,15 @@ nextButton.addEventListener('click', () => {
 
 function startGame() {
 	startButton.classList.add('hide');
-// 	shuffledQuestions = questions.sort(() => Math.random() - 0.5);
-	shuffledQuestions = questions;
+	shuffledQuestions = questions.sort(() => Math.random() - 0.5);
+// 	shuffledQuestions = questions;
 	for (i = 0; i < questions.length; i++) {
 		document.getElementById(shuffledQuestions[i].bahas).classList.add('hide');
 		questionElement.classList.add('animate__animated');
 		questionElement.classList.add('animate__backInLeft');
 		questionElement.style.setProperty('animation-duration', '0.5s');
 	}
-	currentQuestionIndex = 10;
+	currentQuestionIndex = 0;
 	nilai = 0;
 	questionContainerElement.classList.remove('hide');
 	setNextQuestion();
