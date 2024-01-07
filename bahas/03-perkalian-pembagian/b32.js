@@ -14,7 +14,6 @@ let b32 = '<p>&#9989; jumlah kantong = 8 buah<br>'
 
 + '<p><b>ilustrasi: 8 wadah masing-masing berisi 9 kelereng</b></p>'
 
-+ '<p>'
 + '<table style="border: none; line-height: 1.2; word-break: break-all; border-spacing: 5px; font-size: 200%; text-align: center">'
 
 + '<tr>'
@@ -35,5 +34,4 @@ let b32 = '<p>&#9989; jumlah kantong = 8 buah<br>'
 + '<td style="background-color: white; border: 1px black solid">&#128308; &#128309; &#128308; &#128309; &#128308; &#128309; &#128308; &#128309; &#128308;</td>'
 + '</tr>'
 
-+ '</table>'
-+ '</p>';
++ '</table>';

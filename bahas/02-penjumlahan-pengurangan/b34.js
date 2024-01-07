@@ -14,7 +14,6 @@ let b34 = '<p>&#9989; di tambak = 675 ekor<br>'
 
 + '<p><b>ilustrasi: memanen 519 dari 675</b></p>'
 
-+ '<p>'
 + '<table style="border: none; line-height: 1.2; font-size: 200%">'
 
 + '<tr>'
@@ -32,5 +31,4 @@ let b34 = '<p>&#9989; di tambak = 675 ekor<br>'
 + '<td style="text-align: left; word-break: break-all">&#x1F990; &#x1F990; &#x1F990; &#x1F990; &#x1F990; &#x1F990; <span class="greyed">&#x1F990; &#x1F990; &#x1F990; &#x1F990; &#x1F990; &#x1F990; &#x1F990; &#x1F990; &#x1F990;</span></td>'
 + '</tr>'
 
-+ '</table>'
-+ '</p>';
++ '</table>';

@@ -20,7 +20,6 @@ let b22 = '<p>&#9989; jumlah permen cokelat = 42'
 
 + '<p><b>ilustrasi: berbagai cara membagi rata 42, 48, dan 60 permen</b></p>'
 
-+ '<p>'
 + '<table class="table-fpb font-200">'
 
 + '<tr>'
@@ -38,9 +37,7 @@ let b22 = '<p>&#9989; jumlah permen cokelat = 42'
 + '</tr>'
 
 + '</table>'
-+ '</p>'
 
-+ '<p>'
 + '<table class="table-fpb font-200">'
 
 + '<tr>'
@@ -58,9 +55,7 @@ let b22 = '<p>&#9989; jumlah permen cokelat = 42'
 + '</tr>'
 
 + '</table>'
-+ '</p>'
 
-+ '<p>'
 + '<table class="table-fpb font-200">'
 
 + '<tr>'
@@ -78,9 +73,7 @@ let b22 = '<p>&#9989; jumlah permen cokelat = 42'
 + '</tr>'
 
 + '</table>'
-+ '</p>'
 
-+ '<p>'
 + '<table class="table-fpb font-200">'
 
 + '<tr>'
@@ -97,5 +90,4 @@ let b22 = '<p>&#9989; jumlah permen cokelat = 42'
 + '</td>'
 + '</tr>'
 
-+ '</table>'
-+ '</p>';
++ '</table>';

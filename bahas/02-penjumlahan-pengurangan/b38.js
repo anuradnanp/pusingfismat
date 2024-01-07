@@ -14,7 +14,6 @@ let b38 = '<p>&#9989; naik = 563 orang<br>'
 
 + '<p><b>ilustrasi: menurunkan 418 dari 563</b></p>'
 
-+ '<p>'
 + '<table style="border: none; line-height: 1.2; font-size: 200%">'
 
 + '<tr>'
@@ -32,5 +31,4 @@ let b38 = '<p>&#9989; naik = 563 orang<br>'
 + '<td style="text-align: left; word-break: break-all">&#x1F464; &#x1F464; &#x1F464; &#x1F464; &#x1F464; <span class="greyed">&#x1F464; &#x1F464; &#x1F464; &#x1F464; &#x1F464; &#x1F464; &#x1F464; &#x1F464;</span></td>'
 + '</tr>'
 
-+ '</table>'
-+ '</p>';
++ '</table>';

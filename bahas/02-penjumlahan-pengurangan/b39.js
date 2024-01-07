@@ -14,7 +14,6 @@ let b39 = '<p>&#9989; genting mula-mula = 825 buah<br>'
 
 + '<p><b>ilustrasi: mengumpulkan 825 dan 196</b></p>'
 
-+ '<p>'
 + '<table style="border: none; line-height: 1.2; font-size: 200%">'
 
 + '<tr>'
@@ -41,5 +40,4 @@ let b39 = '<p>&#9989; genting mula-mula = 825 buah<br>'
 + '<td style="text-align: left; word-break: break-all">&#9978 &#9978 &#9978 &#9978 &#9978 &#9978</td>'
 + '</tr>'
 
-+ '</table>'
-+ '</p>';
++ '</table>';

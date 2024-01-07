@@ -18,7 +18,6 @@ let b28 = '<p>&#9989; Anto, Beni, dan Condro awalnya berenang bersama.'
 
 + '<p><b>ilustrasi: kejadian yang berulang tiap 6, 9, dan 12 hari</b></p>'
 
-+ '<p>'
 + '<table class="table-kpk">'
 
 + '<tr>'
@@ -65,5 +64,4 @@ let b28 = '<p>&#9989; Anto, Beni, dan Condro awalnya berenang bersama.'
 + '<td class="td-kpk-txt vmid">36</td><td class="vmid font-200">&#x1F3CA;</td><td class="vmid font-200">&#x1F3CA;</td><td class="vmid font-200">&#x1F3CA;</td>'
 + '</tr>'
 
-+ '</table>'
-+ '</p>';
++ '</table>';

@@ -16,7 +16,6 @@ let b26 = '<p>&#9989; jarak tempuh = 275 km'
 
 + '<p><b>ilustrasi: menempuh 90 km dengan konsumsi bensin 1 liter per 11 km dan harga bensin Rp13000 per liter</b></p>'
 
-+ '<p>'
 + '<table class="table-kpk">'
 
 + '<tr>'
@@ -101,6 +100,4 @@ let b26 = '<p>&#9989; jarak tempuh = 275 km'
 + '<td class="td-kpk-txt vmid">275 km</td><td class="td-kpk-txt vmid">25 L</td><td class="td-kpk-txt vmid">Rp325000</td>'
 + '</tr>'
 
-+ '</table>'
-+ '</p>';
-
++ '</table>';

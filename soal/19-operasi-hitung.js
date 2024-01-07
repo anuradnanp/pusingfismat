@@ -493,7 +493,7 @@ const questions = [
 
 // 38
 	{
-		question: '<p>Nisa membeli alat-alat tulis berikut.<ul><li>3 pensil</li><li>5 buku tulis</li><li>9 kertas bergaris</li></ul></p><p>Berikut harga tiap jenis alatnya.<ul><li>Rp250 per pensil</li><li>Rp500 per buku tulis</li><li>Rp125 per kertas bergaris</li></ul><p>Taksiran terbaik ke ratusan terdekat harga total yang harus dibayarkan Nisa adalah &hellip;</p>',
+		question: '<p>Nisa membeli alat-alat tulis berikut.</p><ul><li>3 pensil</li><li>5 buku tulis</li><li>9 kertas bergaris</li></ul><p>Berikut harga tiap jenis alatnya.</p><ul><li>Rp250 per pensil</li><li>Rp500 per buku tulis</li><li>Rp125 per kertas bergaris</li></ul><p>Taksiran terbaik ke ratusan terdekat harga total yang harus dibayarkan Nisa adalah &hellip;</p>',
 		answers:
 			[
 			{ text: 'Rp4300', correct: true },

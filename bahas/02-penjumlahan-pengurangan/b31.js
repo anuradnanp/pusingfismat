@@ -14,7 +14,6 @@ let b31 = '<p>&#9989; panen keranjang 1 = 578 buah<br>'
 
 + '<p><b>ilustrasi: mengumpulkan 578 dan 439</b></p>'
 
-+ '<p>'
 + '<table style="border: none; line-height: 1.2; font-size: 200%">'
 
 + '<tr>'
@@ -41,5 +40,4 @@ let b31 = '<p>&#9989; panen keranjang 1 = 578 buah<br>'
 + '<td style="text-align: left; word-break: break-all">&#x1F34A; &#x1F34A; &#x1F34A; &#x1F34A; &#x1F34A; &#x1F34A; &#x1F34A; &#x1F34A; &#x1F34A;</td>'
 + '</tr>'
 
-+ '</table>'
-+ '</p>';
++ '</table>';

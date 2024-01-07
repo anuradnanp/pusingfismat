@@ -14,7 +14,6 @@ let b33 = '<p>&#9989; semen mula-mula = 625 sak<br>'
 
 + '<p><b>ilustrasi: mengumpulkan 625 dan 255</b></p>'
 
-+ '<p>'
 + '<table style="border: none; line-height: 1.2; font-size: 200%">'
 
 + '<tr>'
@@ -41,5 +40,4 @@ let b33 = '<p>&#9989; semen mula-mula = 625 sak<br>'
 + '<td style="text-align: left; word-break: break-all">&#x1F4BC; &#x1F4BC; &#x1F4BC; &#x1F4BC; &#x1F4BC;</td>'
 + '</tr>'
 
-+ '</table>'
-+ '</p>';
++ '</table>';

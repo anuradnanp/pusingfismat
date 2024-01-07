@@ -20,7 +20,6 @@ let b29 = '<p>&#9989; jarak A-B = 180 km'
 
 + '<p><b>ilustrasi: menempuh 180 km dengan kecepatan 45 km/jam dan sempat berhenti selama 15 menit dan 30 menit</b></p>'
 
-+ '<p>'
 + '<table class="table-kpk">'
 
 + '<tr>'
@@ -47,6 +46,4 @@ let b29 = '<p>&#9989; jarak A-B = 180 km'
 + '<td class="td-kpk-txt vmid">04.45</td><td class="td-kpk-txt vmid">---</td>'
 + '</tr>'
 
-+ '</table>'
-+ '</p>';
-
++ '</table>';

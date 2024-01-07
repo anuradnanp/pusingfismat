@@ -18,7 +18,6 @@ let b21 = '<p>&#9989; jumlah kue keju = 28'
 
 + '<p><b>ilustrasi: berbagai cara membagi rata 28 dan 40 kue</b></p>'
 
-+ '<p>'
 + '<table class="table-fpb font-200">'
 
 + '<tr>'
@@ -34,9 +33,7 @@ let b21 = '<p>&#9989; jumlah kue keju = 28'
 + '</tr>'
 
 + '</table>'
-+ '</p>'
 
-+ '<p>'
 + '<table class="table-fpb font-200">'
 
 + '<tr>'
@@ -52,9 +49,7 @@ let b21 = '<p>&#9989; jumlah kue keju = 28'
 + '</tr>'
 
 + '</table>'
-+ '</p>'
 
-+ '<p>'
 + '<table class="table-fpb font-200">'
 
 + '<tr>'
@@ -69,5 +64,4 @@ let b21 = '<p>&#9989; jumlah kue keju = 28'
 + '</td>'
 + '</tr>'
 
-+ '</table>'
-+ '</p>';
++ '</table>';

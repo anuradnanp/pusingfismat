@@ -16,7 +16,6 @@ let b35 = '<p>&#9989; telur di rak 1 = 376 butir<br>'
 
 + '<p><b>ilustrasi: mengumpulkan 376, 265, dan 985</b></p>'
 
-+ '<p>'
 + '<table style="border: none; line-height: 1.2; font-size: 200%">'
 
 + '<tr>'
@@ -52,5 +51,4 @@ let b35 = '<p>&#9989; telur di rak 1 = 376 butir<br>'
 + '<td style="text-align: left">&#x1F95A; &#x1F95A; &#x1F95A; &#x1F95A; &#x1F95A;</td>'
 + '</tr>'
 
-+ '</table>'
-+ '</p>';
++ '</table>';

@@ -14,7 +14,6 @@ let b36 = '<p>&#9989; kertas mula-mula = 856 lembar<br>'
 
 + '<p><b>ilustrasi: menggunakan 573 dari 856</b></p>'
 
-+ '<p>'
 + '<table style="border: none; line-height: 1.2; font-size: 200%">'
 
 + '<tr>'
@@ -32,5 +31,4 @@ let b36 = '<p>&#9989; kertas mula-mula = 856 lembar<br>'
 + '<td style="text-align: left; word-break: break-all">&#x1F4DD; &#x1F4DD; &#x1F4DD; <span class="greyed">&#x1F4DD; &#x1F4DD; &#x1F4DD;</span></td>'
 + '</tr>'
 
-+ '</table>'
-+ '</p>';
++ '</table>';

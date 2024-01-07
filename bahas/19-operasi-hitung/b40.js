@@ -22,7 +22,6 @@ let b40 = '<p>&#9989; jumlah kotak = 3'
 
 + '<p><b>ilustrasi: berbagai cara membagi rata 216, 324, dan 360 buku</b></p>'
 
-+ '<p>'
 + '<table class="table-fpb font-200">'
 
 + '<tr>'
@@ -179,5 +178,4 @@ let b40 = '<p>&#9989; jumlah kotak = 3'
 + '</td>'
 + '</tr>'
 
-+ '</table>'
-+ '</p>';
++ '</table>';

@@ -6,7 +6,6 @@ let b23 = '<p>Ubah nilai dan satuannya menjadi pecahan. &#x1F9D0;</p>'
 
 + '<p><b>ilustrasi: variasi satuan kecepatan</b></p>'
 
-+ '<p>'
 + '<table class="table-kpk">'
 
 + '<tr>'
@@ -34,5 +33,4 @@ let b23 = '<p>Ubah nilai dan satuannya menjadi pecahan. &#x1F9D0;</p>'
 + '<td class="td-kpk-txt vmid">96</td><td class="td-kpk-txt vmid">240</td><td class="td-kpk-txt vmid">1&frac35;</td>'
 + '</tr>'
 
-+ '</table>'
-+ '</p>';
++ '</table>';

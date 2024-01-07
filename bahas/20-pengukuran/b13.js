@@ -18,7 +18,6 @@ let b13 = '<p>&#9989; jarak Bandung-Sumedang = 45 km'
 
 + '<p><b>ilustrasi: menempuh 90 km dengan kecepatan 40 km/jam</b></p>'
 
-+ '<p>'
 + '<table class="table-kpk">'
 
 + '<tr>'
@@ -54,6 +53,4 @@ let b13 = '<p>&#9989; jarak Bandung-Sumedang = 45 km'
 + '<td class="td-kpk-txt vmid">02.15</td><td class="td-kpk-txt vmid">90 km</td>'
 + '</tr>'
 
-+ '</table>'
-+ '</p>';
-
++ '</table>';

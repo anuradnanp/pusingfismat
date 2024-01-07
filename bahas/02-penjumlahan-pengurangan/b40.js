@@ -16,7 +16,6 @@ let b40 = '<p>&#9989; pesanan 1 = 795 undangan<br>'
 
 + '<p><b>ilustrasi: mengumpulkan 795, 863, dan 150</b></p>'
 
-+ '<p>'
 + '<table style="border: none; line-height: 1.2; font-size: 200%">'
 
 + '<tr>'
@@ -49,5 +48,4 @@ let b40 = '<p>&#9989; pesanan 1 = 795 undangan<br>'
 + '<td style="text-align: left; word-break: break-all">&#x1F4DC; &#x1F4DC; &#x1F4DC;</td>'
 + '</tr><tr>'
 
-+ '</table>'
-+ '</p>';
++ '</table>';

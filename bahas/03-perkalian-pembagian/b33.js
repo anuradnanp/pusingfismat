@@ -14,7 +14,6 @@ let b33 = '<p>&#9989; jumlah keranjang = 9 buah<br>'
 
 + '<p><b>ilustrasi: 9 wadah masing-masing berisi 7 semangka</b></p>'
 
-+ '<p>'
 + '<table style="border: none; line-height: 1; word-break: break-all; border-spacing: 5px; font-size: 300%; text-align: center">'
 
 + '<tr>'
@@ -35,5 +34,4 @@ let b33 = '<p>&#9989; jumlah keranjang = 9 buah<br>'
 + '<td style="background-color: #ff9999">&#127817; &#127817; &#127817; &#127817; &#127817; &#127817; &#127817;</td>'
 + '</tr>'
 
-+ '</table>'
-+ '</p>';
++ '</table>';

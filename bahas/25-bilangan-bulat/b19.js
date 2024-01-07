@@ -22,7 +22,6 @@ let b19 = '<p>&#9989; jumlah mangga = 20'
 
 + '<p><b>ilustrasi: berbagai cara membagi rata 20, 25, dan 35 buah</b></p>'
 
-+ '<p>'
 + '<table class="table-fpb font-200">'
 
 + '<tr>'
@@ -40,9 +39,7 @@ let b19 = '<p>&#9989; jumlah mangga = 20'
 + '</tr>'
 
 + '</table>'
-+ '</p>'
 
-+ '<p>'
 + '<table class="table-fpb font-200">'
 
 + '<tr>'
@@ -59,5 +56,4 @@ let b19 = '<p>&#9989; jumlah mangga = 20'
 + '</td>'
 + '</tr>'
 
-+ '</table>'
-+ '</p>';
++ '</table>';

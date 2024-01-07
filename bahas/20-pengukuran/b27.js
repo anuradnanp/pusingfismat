@@ -20,7 +20,6 @@ let b27 = '<p>&#9989; jam berangkat = 16.30'
 
 + '<p><b>ilustrasi: menempuh 560 km dengan kecepatan 60 km/jam dan sempat berhenti selama 30 menit sebanyak 4 kali</b></p>'
 
-+ '<p>'
 + '<table class="table-kpk">'
 
 + '<tr>'
@@ -83,6 +82,4 @@ let b27 = '<p>&#9989; jam berangkat = 16.30'
 + '<td class="td-kpk-txt vmid">11.20</td><td class="td-kpk-txt vmid">---</td>'
 + '</tr>'
 
-+ '</table>'
-+ '</p>';
-
++ '</table>';

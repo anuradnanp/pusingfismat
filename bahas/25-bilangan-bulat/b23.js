@@ -16,7 +16,6 @@ let b23 = '<p>&#9989; jadwal berenang Frida = 10 hari sekali'
 
 + '<p><b>ilustrasi: kejadian yang berulang tiap 10 dan 15 hari</b></p>'
 
-+ '<p>'
 + '<table class="table-kpk">'
 
 + '<tr>'
@@ -45,5 +44,4 @@ let b23 = '<p>&#9989; jadwal berenang Frida = 10 hari sekali'
 + '<td class="td-kpk-txt vmid">30</td><td class="vmid font-200">&#x1F3CA;</td><td class="vmid font-200">&#x1F3CA;</td>'
 + '</tr>'
 
-+ '</table>'
-+ '</p>';
++ '</table>';
