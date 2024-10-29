@@ -1,7 +1,0 @@
-let b5 = '<p>Hitung sesuai operasi yang disebutkan. &#x1F9D0;</p>'
-
-+ '<p>$$\\begin{gather*}\\begin{tightarray}[0.2em]{ c l } & {\\displaystyle \\frac{\\textcolor[rgb]{1,0,0}{8^{2}} +\\textcolor[rgb]{0,0.5,0}{7^{2}} -\\textcolor[rgb]{0,0.5,1}{6^{2}}}{\\textcolor[rgb]{1,0,0}{\\underbrace{8+6}_{14} -7}}}\\\\= & {\\displaystyle \\frac{\\textcolor[rgb]{1,0,0}{64} +\\textcolor[rgb]{0,0.5,0}{49} -\\textcolor[rgb]{0,0.5,1}{36}}{\\textcolor[rgb]{1,0,0}{7}}}\\end{tightarray}\\\\\\\\'
-
-+ '\\begin{tightarray}[0.2em]{ c c c c } & \\overset{\\textcolor[rgb]{1,0,0}{1}}{\\textcolor[rgb]{0,0.5,0}{6}} & \\textcolor[rgb]{1,0,0}{4} & \\\\ & \\textcolor[rgb]{0,0.5,0}{4} & \\textcolor[rgb]{1,0,0}{9} & +\\\\\\hline & \\textcolor[rgb]{0,0.5,0}{11} & \\textcolor[rgb]{1,0,0}{3} & \\end{tightarray}\\\\\\\\\\begin{tightarray}[0.2em]{ c c c c c } & \\overset{\\textcolor[rgb]{0,0.5,0}{0}}{\\cancel{1}} & \\overset{ \\begin{tightarray}[0.2em]{c}\\textcolor[rgb]{0,0.5,0}{10}\\\\\\textcolor[rgb]{1,0,0}{0}\\end{tightarray}}{\\cancel{1}} & \\overset{\\textcolor[rgb]{1,0,0}{13}}{\\cancel{3}} & \\\\ & & 3 & 6 & -\\\\\\hline & & 7 & 7 & \\end{tightarray}\\\\\\\\\\begin{tightarray}[0.2em]{ c c c c c } & & \\textcolor[rgb]{1,0,0}{1} & \\textcolor[rgb]{0,0.5,0}{1} & \\\\\\hline7 & ) & \\textcolor[rgb]{1,0,0}{7} & 7 & \\\\ & & 7 & - & \\\\\\hline & & & \\textcolor[rgb]{0,0.5,0}{7} & \\\\ & & & 7 & -\\\\\\hline & & & 0 & \\end{tightarray}\\end{gather*}$$</p>'
-
-+ '<p>Jadi \\(\\displaystyle\\frac{8^2+7^2-6^2}{8+6-7}=11\\). &#x1F642;</p>';

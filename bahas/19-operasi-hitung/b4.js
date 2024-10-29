@@ -1,9 +1,0 @@
-let b4 = '<p>Hitung sesuai operasi yang disebutkan. &#x1F9D0;</p>'
-
-+ '<p>$$\\begin{gather*}\\begin{tightarray}[0.2em]{ c c c c c } & & \\overset{\\textcolor[rgb]{1,0,0}{+2}}{1} & 5 & \\\\ & & \\textcolor[rgb]{0,0.5,1}{1} & \\textcolor[rgb]{1,0,0}{5} & \\times \\\\\\hline & & \\textcolor[rgb]{1,0,0}{7} & \\textcolor[rgb]{1,0,0}{5} & \\\\ & \\overset{1}{\\textcolor[rgb]{0,0.5,1}{1}} & \\textcolor[rgb]{0,0.5,1}{5} & & +\\\\\\hline & 2 & 2 & 5 & \\end{tightarray}\\\\\\\\'
-
-+ '\\begin{tightarray}[0.2em]{ c l } & \\left(\\textcolor[rgb]{1,0,0}{15^{2}} +\\textcolor[rgb]{0,0.5,0}{10^{2}}\\right) -\\left(\\textcolor[rgb]{0,0.5,1}{8^{2}} +\\textcolor[rgb]{1,0,0}{7^{2}}\\right)\\\\= & (\\textcolor[rgb]{1,0,0}{225} +\\textcolor[rgb]{0,0.5,0}{100}) -(\\textcolor[rgb]{0,0.5,1}{64} +\\textcolor[rgb]{1,0,0}{49})\\end{tightarray}\\\\\\\\'
-
-+ '\\begin{tightarray}[0.2em]{ c c c c c } & \\textcolor[rgb]{0,0.5,1}{2} & \\textcolor[rgb]{0,0.5,0}{2} & \\textcolor[rgb]{1,0,0}{5} & \\\\ & \\textcolor[rgb]{0,0.5,1}{1} & \\textcolor[rgb]{0,0.5,0}{0} & \\textcolor[rgb]{1,0,0}{0} & +\\\\\\hline & \\textcolor[rgb]{0,0.5,1}{3} & \\textcolor[rgb]{0,0.5,0}{2} & \\textcolor[rgb]{1,0,0}{5} & \\end{tightarray}\\\\\\\\\\begin{tightarray}[0.2em]{ c c c c } & \\overset{\\textcolor[rgb]{1,0,0}{1}}{\\textcolor[rgb]{0,0.5,0}{6}} & \\textcolor[rgb]{1,0,0}{4} & \\\\ & \\textcolor[rgb]{0,0.5,0}{4} & \\textcolor[rgb]{1,0,0}{9} & +\\\\\\hline & \\textcolor[rgb]{0,0.5,0}{11} & \\textcolor[rgb]{1,0,0}{3} & \\end{tightarray}\\\\\\\\\\begin{tightarray}[0.2em]{ c c c c c } & \\textcolor[rgb]{0,0.5,1}{3} & \\textcolor[rgb]{0,0.5,0}{2} & \\textcolor[rgb]{1,0,0}{5} & \\\\ & \\textcolor[rgb]{0,0.5,1}{1} & \\textcolor[rgb]{0,0.5,0}{1} & \\textcolor[rgb]{1,0,0}{3} & -\\\\\\hline & \\textcolor[rgb]{0,0.5,1}{2} & \\textcolor[rgb]{0,0.5,0}{1} & \\textcolor[rgb]{1,0,0}{2} & \\end{tightarray}\\end{gather*}$$</p>'
-
-+ '<p>Jadi \\((15^2+10^2)-(8^2+7^2)=212\\). &#x1F642;</p>';

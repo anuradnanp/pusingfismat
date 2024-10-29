@@ -1,5 +1,0 @@
-let b21 = '<p>Bulatkan lalu hitung sesuai operasi yang disebutkan. &#x1F9D0;</p>'
-
-+ '<p>$$\\begin{equation*}\\begin{tightarray}[0.2em]{ c l } & \\overset{ \\begin{tightarray}[0.2em]{c}\\textcolor[rgb]{0.67,0.67,0.67}{36}\\\\\\textcolor[rgb]{0.67,0.67,0.67}{35\\tfrac{5}{10}}\\\\\\textcolor[rgb]{1,0,0}{35\\tfrac{3}{10} \\downarrow }\\end{tightarray}}{\\textcolor[rgb]{0,0.5,0}{35}} :\\underset{ \\begin{tightarray}[0.2em]{c}\\textcolor[rgb]{1,0,0}{4\\tfrac{4}{7} \\uparrow }\\\\\\textcolor[rgb]{0.67,0.67,0.67}{4\\tfrac{3}{7}}\\\\\\textcolor[rgb]{0.67,0.67,0.67}{4}\\end{tightarray}}{\\textcolor[rgb]{0,0.5,0}{5}} \\times \\underset{ \\begin{tightarray}[0.2em]{c}\\textcolor[rgb]{1,0,0}{2\\tfrac{5}{6} \\uparrow }\\\\\\textcolor[rgb]{0.67,0.67,0.67}{2\\tfrac{3}{6}}\\\\\\textcolor[rgb]{0.67,0.67,0.67}{2}\\end{tightarray}}{\\textcolor[rgb]{0,0.5,0}{3}}\\\\= & \\underbrace{35:5}_{7} \\times 3\\\\= & 21\\end{tightarray}\\end{equation*}$$</p>'
-
-+ '<p>Jadi taksiran terbaik \\(35\\tfrac{3}{10}:4\\tfrac{4}{7}\\times 2\\tfrac{5}{6}\\) yaitu \\(35:5\\times 3=21\\). &#x1F642;</p>';

@@ -1,5 +1,0 @@
-let b20 = '<p>Bulatkan lalu hitung sesuai operasi yang disebutkan. &#x1F9D0;</p>'
-
-+ '<p>$$\\begin{equation*}\\begin{tightarray}[0.2em]{ c l } & \\underset{ \\begin{tightarray}[0.2em]{c}\\textcolor[rgb]{1,0,0}{12\\tfrac{3}{4} \\uparrow }\\\\\\textcolor[rgb]{0.67,0.67,0.67}{12\\tfrac{2}{4}}\\\\\\textcolor[rgb]{0.67,0.67,0.67}{12}\\end{tightarray}}{\\textcolor[rgb]{0,0.5,0}{13}} -\\overset{ \\begin{tightarray}[0.2em]{c}\\textcolor[rgb]{0.67,0.67,0.67}{8}\\\\\\textcolor[rgb]{0.67,0.67,0.67}{7\\tfrac{3}{5}}\\\\\\textcolor[rgb]{1,0,0}{7\\tfrac{2}{5} \\downarrow }\\end{tightarray}}{\\textcolor[rgb]{0,0.5,0}{7}} +\\underset{ \\begin{tightarray}[0.2em]{c}\\textcolor[rgb]{1,0,0}{3\\tfrac{5}{8} \\uparrow }\\\\\\textcolor[rgb]{0.67,0.67,0.67}{3\\tfrac{4}{8}}\\\\\\textcolor[rgb]{0.67,0.67,0.67}{3}\\end{tightarray}}{\\textcolor[rgb]{0,0.5,0}{4}}\\\\= & \\underbrace{13-7}_{6}+4 \\\\= & 10\\end{tightarray}\\end{equation*}$$</p>'
-
-+ '<p>Jadi taksiran terbaik \\(12\\tfrac{3}{4}-7\\tfrac{2}{5}+3\\tfrac{5}{8}\\) yaitu \\(13-7+4=10\\). &#x1F642;</p>';

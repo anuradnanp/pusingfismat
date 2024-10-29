@@ -1,5 +1,0 @@
-let b3 = '<p>Daftarlah kelipatan kedua bilangan dan tandai yang nilainya sama. &#x1F9D0;</p>'
-
-+ '<p>$$\\begin{equation*}\\underset{ \\begin{tightarray}[0.2em]{c}\\textcolor[rgb]{0.67,0.67,0.67}{12}\\\\\\textcolor[rgb]{0.67,0.67,0.67}{18}\\\\\\textcolor[rgb]{1,0,0}{24}\\\\\\textcolor[rgb]{0.67,0.67,0.67}{30}\\\\\\textcolor[rgb]{0.67,0.67,0.67}{36}\\\\\\textcolor[rgb]{0.67,0.67,0.67}{42}\\\\\\textcolor[rgb]{1,0,0}{48}\\\\\\textcolor[rgb]{0.67,0.67,0.67}{54}\\\\\\textcolor[rgb]{0.67,0.67,0.67}{60}\\\\\\textcolor[rgb]{0.67,0.67,0.67}{66}\\\\\\textcolor[rgb]{1,0,0}{72}\\\\\\textcolor[rgb]{0.67,0.67,0.67}{\\dotsc }\\end{tightarray}}{6} ,\\underset{ \\begin{tightarray}[0.2em]{c}\\textcolor[rgb]{0.67,0.67,0.67}{16}\\\\\\textcolor[rgb]{1,0,0}{24}\\\\\\textcolor[rgb]{0.67,0.67,0.67}{32}\\\\\\textcolor[rgb]{0.67,0.67,0.67}{40}\\\\\\textcolor[rgb]{1,0,0}{48}\\\\\\textcolor[rgb]{0.67,0.67,0.67}{56}\\\\\\textcolor[rgb]{0.67,0.67,0.67}{64}\\\\\\textcolor[rgb]{1,0,0}{72}\\\\\\textcolor[rgb]{0.67,0.67,0.67}{\\dotsc }\\end{tightarray}}{8}\\end{equation*}$$</p>'
-
-+ '<p>Jadi kelipatan persekutuan 6 dan 8 adalah 24, 48, 72, &hellip; . &#x1F642;</p>';

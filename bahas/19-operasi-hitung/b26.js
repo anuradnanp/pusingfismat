@@ -1,5 +1,0 @@
-let b26 = '<p>Hitung batas-batasnya berdasarkan taksiran bawah dan atas. &#x1F9D0;</p>'
-
-+ '<p>$$\\begin{gather*}\\overset{ \\begin{tightarray}[0.2em]{c}\\textcolor[rgb]{0.67,0.67,0.67}{7}\\\\\\textcolor[rgb]{1,0,0}{6\\tfrac{2}{3} \\downarrow }\\end{tightarray}}{\\textcolor[rgb]{0,0.5,0}{6}} \\times \\overset{ \\begin{tightarray}[0.2em]{c}\\textcolor[rgb]{0.67,0.67,0.67}{5}\\\\\\textcolor[rgb]{1,0,0}{4\\tfrac{2}{5} \\downarrow }\\end{tightarray}}{\\textcolor[rgb]{0,0.5,0}{4}} =24\\\\\\\\\\underset{ \\begin{tightarray}[0.2em]{c}\\textcolor[rgb]{1,0,0}{6}\\textcolor[rgb]{1,0,0}{\\tfrac{2}{3}}\\textcolor[rgb]{1,0,0}{\\uparrow }\\\\\\textcolor[rgb]{0.67,0.67,0.67}{6}\\end{tightarray}}{\\textcolor[rgb]{0,0.5,0}{7}} \\times \\underset{ \\begin{tightarray}[0.2em]{c}\\textcolor[rgb]{1,0,0}{4}\\textcolor[rgb]{1,0,0}{\\tfrac{2}{5}}\\textcolor[rgb]{1,0,0}{\\uparrow }\\\\\\textcolor[rgb]{0.67,0.67,0.67}{4}\\end{tightarray}}{\\textcolor[rgb]{0,0.5,0}{5}} =35\\\\\\\\24< 6\\tfrac{2}{3} \\times 4\\tfrac{2}{5} < 35\\end{gather*}$$</p>'
-
-+ '<p>Jadi \\(6\\tfrac{2}{3}\\times 4\\tfrac{2}{5}\\) pasti di antara 24 dan 35. &#x1F642;</p>';

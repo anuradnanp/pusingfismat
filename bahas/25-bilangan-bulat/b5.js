@@ -1,6 +1,0 @@
-let b5 = '<p>Terapkan sifat distributif perkalian. &#x1F9D0;</p>'
-
-+ '<p>$$\\begin{gather*}\\begin{tightarray}[0.2em]{ c l } & \\textcolor[rgb]{1,0,0}{\\blacksquare } \\times (\\textcolor[rgb]{0,0.5,0}{\\blacksquare } -\\textcolor[rgb]{0,0.5,1}{\\blacksquare })\\\\= & \\textcolor[rgb]{1,0,0}{\\blacksquare } \\times \\textcolor[rgb]{0,0.5,0}{\\blacksquare } -\\textcolor[rgb]{1,0,0}{\\blacksquare } \\times \\textcolor[rgb]{0,0.5,1}{\\blacksquare }\\end{tightarray}\\\\\\\\\\begin{tightarray}[0.2em]{ c l } & \\textcolor[rgb]{1,0,0}{5} \\times (\\textcolor[rgb]{0,0.5,0}{100} -\\textcolor[rgb]{0,0.5,1}{1})\\\\= & \\underbrace{\\textcolor[rgb]{1,0,0}{5} \\times \\textcolor[rgb]{0,0.5,0}{100}}_{500} -\\underbrace{\\textcolor[rgb]{1,0,0}{5} \\times \\textcolor[rgb]{0,0.5,1}{1}}_{5}\\end{tightarray}\\\\\\\\\\begin{tightarray}[0.2em]{ c c c c c } & \\overset{\\textcolor[rgb]{0,0.5,1}{4}}{\\cancel{5}} & \\overset{ \\begin{tightarray}[0.2em]{c}\\textcolor[rgb]{1,0,0}{9}\\\\\\textcolor[rgb]{0,0.5,1}{\\cancel{10}}\\end{tightarray}}{\\cancel{0}} & \\overset{\\textcolor[rgb]{1,0,0}{10}}{\\cancel{0}} & \\\\ & & & 5 & -\\\\\\hline & 4 & 9 & 5 & \\end{tightarray}\\end{gather*}$$</p>'
-
-+ '<p>Jadi titik-titik pada soal nilainya 1 dan 495. &#x1F642;</p>';
-

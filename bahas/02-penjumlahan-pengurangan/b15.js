@@ -1,5 +1,0 @@
-let b15 = '<p>Gunakan pengurangan bersusun. &#x1F9D0;</p>'
-
-+ '<p>$$\\begin{gather*}\\begin{tightarray}[0.2em]{ c c c c c } & \\textcolor[rgb]{0,0.5,1}{9} & \\textcolor[rgb]{0,0.5,0}{\\overset{1}{\\cancel{2}}} & \\textcolor[rgb]{1,0,0}{\\overset{15}{\\cancel{5}}} & \\\\ & \\textcolor[rgb]{0,0.5,1}{8} & \\textcolor[rgb]{0,0.5,0}{7} & \\textcolor[rgb]{1,0,0}{6} & -\\\\\\hline & & & \\textcolor[rgb]{1,0,0}{9} & \\end{tightarray}\\\\\\\\\\begin{tightarray}[0.2em]{ c c c c c } & \\textcolor[rgb]{0,0.5,1}{\\overset{8}{\\cancel{9}}} & \\textcolor[rgb]{0,0.5,0}{\\overset{\\begin{tightarray}[0.2em]{c}11\\\\\\cancel{1}\\end{tightarray}}{\\cancel{2}}} & \\textcolor[rgb]{1,0,0}{\\overset{15}{\\cancel{5}}} & \\\\ & \\textcolor[rgb]{0,0.5,1}{8} & \\textcolor[rgb]{0,0.5,0}{7} & \\textcolor[rgb]{1,0,0}{6} & -\\\\\\hline & \\textcolor[rgb]{0,0.5,1}{0} & \\textcolor[rgb]{0,0.5,0}{4} & \\textcolor[rgb]{1,0,0}{9} & \\end{tightarray}\\end{gather*}$$</p>'
-
-+ '<p>Jadi hasil pengurangannya adalah 49. &#x1F642;</p>';
